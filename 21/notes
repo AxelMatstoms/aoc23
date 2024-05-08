@@ -1,0 +1,17 @@
+        A
+       ABA
+      ABABA
+     ABABABA
+    ABABABABA
+     ABABABA
+      ABABA
+       ABA
+        A
+
+1 4 8 12
+
+x0 = 1
+xn = 4n
+
+summor:
+1 5 13 25
